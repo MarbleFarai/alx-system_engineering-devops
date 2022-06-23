@@ -1,1 +1,1 @@
-this readme is for 0x01 shell permissions
+this readme is for 0x01 shell permissions 0x01
